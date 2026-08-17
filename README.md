@@ -1,4 +1,4 @@
-# Sentiment Analysis AI
+# Sentiment Analysis
 
 This simple Python project checks whether a sentence is positive or negative. It isn't entirely acurate because that would require a big data set and a better algorithm this just works on recognition of the words on the dataset i created.
 
